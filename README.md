@@ -6,4 +6,5 @@ Najtemačnejša otroška igra. Saj se samo hecam.
 
 To so vsi avtorji projekta:
 
-- Melina Physicos Fifolt
+- Melina Physicos Fifolt,
+- drugih ni.
