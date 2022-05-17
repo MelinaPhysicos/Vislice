@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-
-  <h1>Vislice</h1>
+% rebase('base.tpl', title="Vislice")
 
 Geslo: {{geslo}} <br/>
 Nepravilni ugibi: {{nepravilni}} <br/>
@@ -14,7 +9,3 @@ Stopnja obešenosti: {{obesenost}}
     <input name="crka"> <input type="submit" value="Ugibaj">
 </form>
 % end
-
-</body>
-
-</html>
